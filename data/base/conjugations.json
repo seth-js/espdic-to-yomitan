@@ -1,0 +1,268 @@
+{
+    "v":
+        [
+            ["i", "us", ["conditional"]],
+            ["i", "as", ["present"]],
+            ["i", "is", ["past"]],
+            ["i", "os", ["future"]],
+            ["i", "u", ["imperative"]],
+            ["i", "anta", [
+                "singular",
+                "present",
+                "active",
+                "participle"
+            ]],
+            ["i", "antajn", [
+                "accusative",
+                "plural",
+                "present",
+                "active",
+                "participle"
+            ]],
+            ["i", "ontojn", [
+                "accusative",
+                "plural",
+                "future",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "antoj", [
+                "plural",
+                "present",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "intaj", [
+                "plural",
+                "past",
+                "active",
+                "participle"
+            ]],
+            ["i", "ante", [
+                "present",
+                "active",
+                "participle",
+                "adverbial"
+            ]],
+            ["i", "ontan", [
+                "accusative",
+                "singular",
+                "future",
+                "active",
+                "participle"
+            ]],
+            ["i", "antan", [
+                "accusative",
+                "singular",
+                "present",
+                "active",
+                "participle"
+            ]],
+            ["i", "ontaj", [
+                "plural",
+                "future",
+                "active",
+                "participle"
+            ]],
+            ["i", "inte", [
+                "past",
+                "active",
+                "participle",
+                "adverbial"
+            ]],
+            ["i", "intojn", [
+                "accusative",
+                "plural",
+                "past",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "ontoj", [
+                "plural",
+                "future",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "inton", [
+                "accusative",
+                "singular",
+                "past",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "intan", [
+                "accusative",
+                "singular",
+                "past",
+                "active",
+                "participle"
+            ]],
+            ["i", "antojn", [
+                "accusative",
+                "plural",
+                "present",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "onta", [
+                "singular",
+                "future",
+                "active",
+                "participle"
+            ]],
+            ["i", "inta", [
+                "singular",
+                "past",
+                "active",
+                "participle"
+            ]],
+            ["i", "ontajn", [
+                "accusative",
+                "plural",
+                "future",
+                "active",
+                "participle"
+            ]],
+            ["i", "intajn", [
+                "accusative",
+                "plural",
+                "past",
+                "active",
+                "participle"
+            ]],
+            ["i", "into", [
+                "singular",
+                "past",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "onte", [
+                "future",
+                "active",
+                "participle",
+                "adverbial"
+            ]],
+            ["i", "intoj", [
+                "plural",
+                "past",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "anton", [
+                "accusative",
+                "singular",
+                "present",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "anto", [
+                "singular",
+                "present",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "onto", [
+                "singular",
+                "future",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "onton", [
+                "accusative",
+                "singular",
+                "future",
+                "active",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "ita", [
+                "singular",
+                "past",
+                "passive",
+                "participle"
+            ]],
+            ["i", "itan", [
+                "accusative",
+                "singular",
+                "past",
+                "passive",
+                "participle"
+            ]],
+            ["i", "ite", [
+                "singular",
+                "past",
+                "passive",
+                "participle",
+                "adverbial"
+            ]],
+            ["i", "iten", [
+                "accusative",
+                "singular",
+                "past",
+                "passive",
+                "participle",
+                "adverbial"
+            ]],
+            ["i", "ito", [
+                "singular",
+                "past",
+                "passive",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "iton", [
+                "accusative",
+                "singular",
+                "past",
+                "passive",
+                "participle",
+                "nominal"
+            ]],
+            ["i", "itojn", [
+                "accusative",
+                "plural",
+                "past",
+                "passive",
+                "participle",
+                "nominal"
+            ]]
+        ],
+    "n":
+        [
+            ["o", "on", [
+                "accusative"
+            ]],
+            ["o", "oj", [
+                "plural"
+            ]],
+            ["o", "ojn", [
+                "accusative",
+                "plural"
+            ]]
+        ],
+    "adj":
+        [
+            ["a", "an", [
+                "accusative",
+                "singular"
+            ]],
+            ["a", "aj", [
+                "plural"
+            ]],
+            ["a", "ajn", [
+                "accusative",
+                "plural"
+            ]]
+        ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "espdic-to-yomitan",
+  "version": "1.0.0",
+  "main": "create.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yomitan",
+    "esperanto",
+    "dictionary"
+  ],
+  "author": "https://github.com/seth-js",
+  "license": "ISC",
+  "description": "Creates a Yomitan compatible dictionary from Paul Denisowski's ESPDIC text file."
+}
